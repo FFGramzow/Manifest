@@ -1,1 +1,20 @@
-{}
+{
+  "name": "Intranet Feuerwehr Gramzow",
+  "short_name": "FW Gramzow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#b00000",
+  "theme_color": "#b00000",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
